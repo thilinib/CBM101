@@ -5,7 +5,7 @@ dependencies:
 - ipywidgets
 - jupyter
 - git
-- numpy=1.21
+- numpy
 - matplotlib
 - pandas
 - scikit-learn
