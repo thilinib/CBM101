@@ -1,4 +1,3 @@
-name: CBM101
 dependencies:
 - python>=3.6.0
 - ipython
