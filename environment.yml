@@ -1,5 +1,4 @@
 dependencies:
-- python>=3.6.0
 - ipython
 - ipywidgets
 - jupyter
@@ -14,7 +13,6 @@ dependencies:
 - conda-forge::statsmodels
 - conda-forge::biopython
 - conda-forge::graphviz
-- conda-forge::nxviz
 - conda-forge::umap-learn
 - conda-forge::opencv
 - conda-forge::pandas-profiling
@@ -25,7 +23,6 @@ dependencies:
 - simplegeneric
 - pytables
 - openpyxl
-- basemap
 - scikit-image
 - networkx
 - xlrd
