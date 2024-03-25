@@ -1,9 +1,13 @@
-Main contents of the Section E_Machine_Learning
+### Main Contents of Section E_Machine_Learning
 
-1. Exploratory Data Analysis https://elearn.uef.fi/mod/hvp/view.php?id=484877
-2. Machine Learning Introduction
-3. Unsupervised Learning - Clustering
+1. **Exploratory Data Analysis**: 
+   - Access the [Exploratory Data Analysis module](https://elearn.uef.fi/mod/hvp/view.php?id=484877) for detailed guidance.
 
+2. **Machine Learning Introduction**
 
-Check this https://elearn.uef.fi/mod/hvp/view.php?id=484738 to create the python environment for this section.
+3. **Unsupervised Learning - Clustering**
+
+---
+
+To set up the Python environment for this section, refer to [this link](https://elearn.uef.fi/mod/hvp/view.php?id=484738).
 
