@@ -1,1 +1,0 @@
-muscles = pd.read_excel(muscles_fn)

@@ -1,1 +1,0 @@
-list(G.neighbors('AKT1'))

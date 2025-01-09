@@ -1,1 +1,0 @@
-nx.shortest_path(G, 'EGF', 'GCG') #supposed to throw an error for a DiGraph
