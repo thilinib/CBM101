@@ -1,3 +1,20 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f1256ca2052dc927cdc2b2e2826487deab3cdba23c32242edbdf0a4f1bff3118
-size 1367
+"drug_id","drug_name","drug_target","drug_target_name"
+"DB00432","Trifluridine","TYMS","Thymidylate synthase"
+"DB00503","Ritonavir","NR1I2","Nuclear receptor subfamily 1 group I member 2"
+"DB00518","Albendazole","TUBA1A","Tubulin alpha-1A chain"
+"DB00643","Mebendazole","TUBA1A","Tubulin alpha-1A chain"
+"DB00711","Diethylcarbamazine","PTGS1","Prostaglandin G/H synthase 1"
+"DB00811","Ribavirin","IMPDH2","Inosine-5'-monophosphate dehydrogenase 2"
+"DB00848","Levamisole","ALPPL2","Alkaline phosphatase, placental-like"
+"DB00908","Quinidine","KCNH2","Potassium voltage-gated channel subfamily H member 2"
+"DB01131","Proguanil","DHFR","Dihydrofolate reductase"
+"DB01157","Trimetrexate","DHFR","Dihydrofolate reductase"
+"DB01179","Podofilox","TOP2A","DNA topoisomerase 2-alpha"
+"DB01218","Halofantrine","KCNH2","Potassium voltage-gated channel subfamily H member 2"
+"DB01611","Hydroxychloroquine","TLR9","Toll-like receptor 9"
+"DB04835","Maraviroc","CCR5","C-C chemokine receptor type 5"
+"DB05521","Telaprevir","SLCO2B1","Solute carrier organic anion transporter family member 2B1"
+"DB05630","Sodium stibogluconate","TOP1","DNA topoisomerase 1"
+"DB08864","Rilpivirine","NR1I2","Nuclear receptor subfamily 1 group I member 2"
+"DB11156","Pyrantel","CHRM1","Muscarinic acetylcholine receptor M1"
+"DB11254","Hexylresorcinol","TOP1","DNA topoisomerase 1"
