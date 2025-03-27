@@ -1,0 +1,316 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-03-27">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="2" title="relationship" type="string" />
+      <attribute id="3" title="hop" type="long" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="type" type="string" />
+      <attribute id="1" title="hop" type="long" />
+    </attributes>
+    <nodes>
+      <node id="I23O1_HUMAN" label="I23O1_HUMAN">
+        <attvalues>
+          <attvalue for="0" value="Protein" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="tryptophan 2,3-dioxygenase" label="tryptophan 2,3-dioxygenase">
+        <attvalues>
+          <attvalue for="0" value="EC" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="L-tryptophan:oxygen 2,3-oxidoreductase (decyclizing); L-Tryptophan + Oxygen &lt;=&gt; L-Formylkynurenine" label="L-tryptophan:oxygen 2,3-oxidoreductase (decyclizing); L-Tryptophan + Oxygen &lt;=&gt; L-Formylkynurenine">
+        <attvalues>
+          <attvalue for="0" value="Reaction" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="DL-TRYPTOPHAN" label="DL-TRYPTOPHAN">
+        <attvalues>
+          <attvalue for="0" value="Compound" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="Econazole" label="Econazole">
+        <attvalues>
+          <attvalue for="0" value="Compound" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="FBXO11" label="FBXO11">
+        <attvalues>
+          <attvalue for="0" value="Gene" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="LEVOKETOCONAZOLE" label="LEVOKETOCONAZOLE">
+        <attvalues>
+          <attvalue for="0" value="Compound" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="tryptophan 2,3-dioxygenase " label="tryptophan 2,3-dioxygenase ">
+        <attvalues>
+          <attvalue for="0" value="Reaction" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="L-Tryptophan" label="L-Tryptophan">
+        <attvalues>
+          <attvalue for="0" value="Compound" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ADGRE5" label="ADGRE5">
+        <attvalues>
+          <attvalue for="0" value="Gene" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Bifonazole" label="Bifonazole">
+        <attvalues>
+          <attvalue for="0" value="Compound" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="(L)-1-METHYLTRYPTOPHAN" label="(L)-1-METHYLTRYPTOPHAN">
+        <attvalues>
+          <attvalue for="0" value="Compound" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="indoleamine 2,3-dioxygenase" label="indoleamine 2,3-dioxygenase">
+        <attvalues>
+          <attvalue for="0" value="EC" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="D-tryptophan:oxygen 2,3-oxidoreductase (decyclizing); D-Tryptophan + Oxygen &lt;=&gt; N-Formyl-D-kynurenine" label="D-tryptophan:oxygen 2,3-oxidoreductase (decyclizing); D-Tryptophan + Oxygen &lt;=&gt; N-Formyl-D-kynurenine">
+        <attvalues>
+          <attvalue for="0" value="Reaction" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Oxiconazole" label="Oxiconazole">
+        <attvalues>
+          <attvalue for="0" value="Compound" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="MKNK1" label="MKNK1">
+        <attvalues>
+          <attvalue for="0" value="Gene" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="Sertaconazole" label="Sertaconazole">
+        <attvalues>
+          <attvalue for="0" value="Compound" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="IFNG" label="IFNG">
+        <attvalues>
+          <attvalue for="0" value="Gene" />
+        </attvalues>
+      </node>
+      <node id="IDO1" label="IDO1">
+        <attvalues>
+          <attvalue for="0" value="Gene" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="tryptophan 2,3-dioxygenase" target="I23O1_HUMAN" id="0">
+        <attvalues>
+          <attvalue for="2" value="ISA_PiEC" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="tryptophan 2,3-dioxygenase" target="L-tryptophan:oxygen 2,3-oxidoreductase (decyclizing); L-Tryptophan + Oxygen &lt;=&gt; L-Formylkynurenine" id="1">
+        <attvalues>
+          <attvalue for="2" value="CATALYZES_ECcR" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="tryptophan 2,3-dioxygenase" target="tryptophan 2,3-dioxygenase " id="2">
+        <attvalues>
+          <attvalue for="2" value="CATALYZES_ECcR" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="L-tryptophan:oxygen 2,3-oxidoreductase (decyclizing); L-Tryptophan + Oxygen &lt;=&gt; L-Formylkynurenine" target="DL-TRYPTOPHAN" id="3">
+        <attvalues>
+          <attvalue for="2" value="CONSUMES_RcC" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="DL-TRYPTOPHAN" target="FBXO11" id="4">
+        <attvalues>
+          <attvalue for="2" value="UPREGULATES_CuG" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="DL-TRYPTOPHAN" target="ADGRE5" id="5">
+        <attvalues>
+          <attvalue for="2" value="UPREGULATES_CuG" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="DL-TRYPTOPHAN" target="MKNK1" id="6">
+        <attvalues>
+          <attvalue for="2" value="DOWNREGULATES_CdG" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Econazole" target="I23O1_HUMAN" id="7">
+        <attvalues>
+          <attvalue for="2" value="BINDS_CbP" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Econazole" target="FBXO11" id="8">
+        <attvalues>
+          <attvalue for="2" value="UPREGULATES_CuG" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="LEVOKETOCONAZOLE" target="I23O1_HUMAN" id="9">
+        <attvalues>
+          <attvalue for="2" value="BINDS_CbP" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="LEVOKETOCONAZOLE" target="FBXO11" id="10">
+        <attvalues>
+          <attvalue for="2" value="UPREGULATES_CuG" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="tryptophan 2,3-dioxygenase " target="DL-TRYPTOPHAN" id="11">
+        <attvalues>
+          <attvalue for="2" value="CONSUMES_RcC" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="L-Tryptophan" target="I23O1_HUMAN" id="12">
+        <attvalues>
+          <attvalue for="2" value="BINDS_CbP" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="L-Tryptophan" target="ADGRE5" id="13">
+        <attvalues>
+          <attvalue for="2" value="UPREGULATES_CuG" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="L-Tryptophan" target="FBXO11" id="14">
+        <attvalues>
+          <attvalue for="2" value="UPREGULATES_CuG" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="L-Tryptophan" target="MKNK1" id="15">
+        <attvalues>
+          <attvalue for="2" value="DOWNREGULATES_CdG" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Bifonazole" target="I23O1_HUMAN" id="16">
+        <attvalues>
+          <attvalue for="2" value="BINDS_CbP" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Bifonazole" target="ADGRE5" id="17">
+        <attvalues>
+          <attvalue for="2" value="UPREGULATES_CuG" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="(L)-1-METHYLTRYPTOPHAN" target="I23O1_HUMAN" id="18">
+        <attvalues>
+          <attvalue for="2" value="BINDS_CbP" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="(L)-1-METHYLTRYPTOPHAN" target="ADGRE5" id="19">
+        <attvalues>
+          <attvalue for="2" value="UPREGULATES_CuG" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="indoleamine 2,3-dioxygenase" target="I23O1_HUMAN" id="20">
+        <attvalues>
+          <attvalue for="2" value="ISA_PiEC" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="indoleamine 2,3-dioxygenase" target="tryptophan 2,3-dioxygenase " id="21">
+        <attvalues>
+          <attvalue for="2" value="CATALYZES_ECcR" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="indoleamine 2,3-dioxygenase" target="D-tryptophan:oxygen 2,3-oxidoreductase (decyclizing); D-Tryptophan + Oxygen &lt;=&gt; N-Formyl-D-kynurenine" id="22">
+        <attvalues>
+          <attvalue for="2" value="CATALYZES_ECcR" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="indoleamine 2,3-dioxygenase" target="L-tryptophan:oxygen 2,3-oxidoreductase (decyclizing); L-Tryptophan + Oxygen &lt;=&gt; L-Formylkynurenine" id="23">
+        <attvalues>
+          <attvalue for="2" value="CATALYZES_ECcR" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="D-tryptophan:oxygen 2,3-oxidoreductase (decyclizing); D-Tryptophan + Oxygen &lt;=&gt; N-Formyl-D-kynurenine" target="DL-TRYPTOPHAN" id="24">
+        <attvalues>
+          <attvalue for="2" value="CONSUMES_RcC" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Oxiconazole" target="I23O1_HUMAN" id="25">
+        <attvalues>
+          <attvalue for="2" value="BINDS_CbP" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Oxiconazole" target="ADGRE5" id="26">
+        <attvalues>
+          <attvalue for="2" value="UPREGULATES_CuG" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Sertaconazole" target="I23O1_HUMAN" id="27">
+        <attvalues>
+          <attvalue for="2" value="BINDS_CbP" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Sertaconazole" target="ADGRE5" id="28">
+        <attvalues>
+          <attvalue for="2" value="UPREGULATES_CuG" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="IFNG" target="IDO1" id="29">
+        <attvalues>
+          <attvalue for="2" value="UPREGULATES_GPuG" />
+        </attvalues>
+      </edge>
+      <edge source="IDO1" target="I23O1_HUMAN" id="30">
+        <attvalues>
+          <attvalue for="2" value="ENCODES_GeP" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
