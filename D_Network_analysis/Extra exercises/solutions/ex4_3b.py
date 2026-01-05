@@ -1,1 +1,0 @@
-muscles.drop(columns=['Landmark Position', 'Weight'], inplace=True)

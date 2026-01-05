@@ -1,1 +1,0 @@
-node_degrees = np.array([e for v,e in list(G.degree())])
